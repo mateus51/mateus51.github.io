@@ -39,7 +39,7 @@
             <h1 style="margin-top: -14px;font-family: MonteCarlo;">Confirme sua presença</h1>
             <p style="font-family: 'Abhaya Libre', serif;width: 100%;height: auto;font-size: 25px;">Por favor, confirme sua presença em nosso casamento!</p>
             <div class="d-flex justify-content-center align-items-center">
-                <form style="padding: 15px;width: 70%;" onsubmit="submitRsvpForm(event)"><input class="form-control form-control-lg" type="text" id="name" name="Nome" placeholder="Seu Nome" required="" maxlength="150" minlength="8" style="margin: 1px;"><input class="form-control form-control-lg" type="tel" id="phoneNumber" name="Telefone" required="" minlength="8" maxlength="20" placeholder="Seu telefone" style="margin-top: 5px;"><select class="form-select" id="rsvpChoice" name="rsvp" value="true" style="margin-top: 20px;">
+                <form style="padding: 15px;width: 70%;" onsubmit="submitRsvpForm()"><input class="form-control form-control-lg" type="text" id="name" name="Nome" placeholder="Seu Nome" required="" maxlength="150" minlength="8" style="margin: 1px;"><input class="form-control form-control-lg" type="tel" id="phone" name="Telefone" required="" minlength="8" maxlength="20" placeholder="Seu telefone" style="margin-top: 5px;"><input class="form-control form-control-lg" type="text" id="message" name="Recado" placeholder="Se quiser, deixe um recado!" required="" maxlength="150" minlength="8" style="margin-top: 5px;"><select class="form-select" id="choice" name="rsvp" value="true" style="margin-top: 20px;">
                         <optgroup label="Confirme :)">
                             <option value="true">Vou comparecer</option>
                             <option value="false">Não vou comparecer</option>
@@ -47,7 +47,6 @@
                     </select><button class="btn btn-primary" type="submit" style="margin: 10px;margin-top: 20px;background: rgb(41, 52, 71);" >Enviar</button></form>
             </div>
         </div>
-        <div style="width: 100%;height: auto;"></div>
     </div>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.js"></script>
