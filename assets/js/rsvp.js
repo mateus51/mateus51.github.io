@@ -13,25 +13,13 @@ function submitRsvpForm(data) {
         'message': getById('message'),
         'rsvp': getById('choice')
     };
-
-    console.log("name = " + name + " | phone = " + phone + " | choice = " + choice);
     
     var xhr = new XMLHttpRequest();
     xhr.open("POST", "https://3zl0fxap3d.execute-api.us-east-2.amazonaws.com/prod/rsvp");
-    xhr.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
-    xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
-    xhr.setRequestHeader('Access-Control-Allow-Credentials', true);
-
+    xhr.setRequestHeader('Content-Type', 'application/json');
     xhr.send(JSON.stringify(data));
 
-    xhr.onloadend = function () {
-        alert('aqui')
-        sleep('100000')
-        // done
-    }
-
-    alert("name = " + name + " | phone = " + phone + " | choice = " + choice + " | mensagem = " + message)
-
+    alert("versao nova - name = " + name + " | phone = " + phone + " | choice = " + choice + " | mensagem = " + message)
 }
     
 function getById(identifier) {
