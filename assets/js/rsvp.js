@@ -21,7 +21,7 @@ function submitRsvpForm(data) {
     xhr.setRequestHeader('Content-Type', 'application/json');
     xhr.send(JSON.stringify(data));
 
-    alert("name = " + name + " | phone = " + phone + " | choice = " + choice + " | mensagem = " + message)
+    alert("Obrigado por confirmar sua presença!");
 }
     
 function getById(identifier) {
