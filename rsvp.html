@@ -15,8 +15,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.css">
     <link rel="stylesheet" href="assets/css/Simple-Slider.css">
     <link rel="stylesheet" href="assets/css/styles.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"></script>
 </head>
 
 <body style="background: url(&quot;assets/img/la_butte_top_left.png&quot;) top left / 500px no-repeat, url(&quot;assets/img/la_butte_bottom_right.png&quot;) bottom right / 400px no-repeat, rgb(41, 52, 71);height: 100%;">
@@ -42,7 +40,7 @@
             <h1 style="margin-top: -14px;font-family: MonteCarlo;font-size: 35px;">Confirme sua presença</h1>
             <p style="font-family: 'Abhaya Libre', serif;width: 100%;height: auto;font-size: 18px;">Queremos deixar tudo organizado para recebê-los com muito carinho e comodidade!&nbsp;<br>Por favor, confirme sua presença no nosso casamento <strong><span style="text-decoration: underline;">até o dia 19/02/2022.&nbsp;</span></strong></p>
             <div class="d-flex justify-content-center align-items-center">
-                <form style="padding: 15px;width: 99%;" onsubmit="return submitRsvpForm()"><input class="form-control form-control-lg" type="text" id="name" name="Nome" placeholder="Seu Nome" required="" maxlength="150" minlength="8" style="margin: 1px;font-family: 'Abhaya Libre', serif;"><input class="form-control form-control-lg" type="tel" id="phone" name="Telefone" required="" minlength="8" maxlength="20" placeholder="Seu telefone" style="margin-top: 5px;font-family: 'Abhaya Libre', serif;" inputmode="tel"><textarea class="form-control form-control-lg" id="message" placeholder="Observações" name="Recado" style="margin-top: 5px;font-family: 'Abhaya Libre', serif;"></textarea><select class="form-select" id="choice" name="rsvp" value="true" style="margin-top: 20px;font-family: 'Abhaya Libre', serif;font-size: 20px;">
+                <form style="padding: 15px;width: 99%;" onsubmit="return submitRsvpForm()"><input class="form-control form-control-lg" type="text" id="name" name="Nome" placeholder="Seu Nome" required="" maxlength="150" minlength="8" style="margin: 1px;font-family: 'Abhaya Libre', serif;"><input class="form-control form-control-lg" type="tel" id="phone" name="Telefone" required="" minlength="8" maxlength="14" placeholder="Seu telefone" style="margin-top: 5px;font-family: 'Abhaya Libre', serif;" inputmode="tel"><textarea class="form-control form-control-lg" id="message" placeholder="Observações" name="Recado" style="margin-top: 5px;font-family: 'Abhaya Libre', serif;"></textarea><select class="form-select" id="choice" name="rsvp" value="true" style="margin-top: 20px;font-family: 'Abhaya Libre', serif;font-size: 20px;">
                         <optgroup label="Confirme :)">
                             <option value="true">Vou comparecer</option>
                             <option value="false">Não vou comparecer</option>
@@ -54,14 +52,11 @@
         </div>
     </div>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.js"></script>
+    <script src="assets/js/mask.js"></script>
     <script src="assets/js/rsvp.js"></script>
     <script src="assets/js/Simple-Slider.js"></script>
-
-    <script type="text/javascript">
-        $("#phone").mask("(00) 00000-0000");
-    </script>
-    
 </body>
 
 </html>
