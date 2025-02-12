@@ -1,0 +1,370 @@
+[
+    {
+        "title": "Ritinha tinha uma irmã quando foi adotada. Quais eram seus nomes originais?",
+        "questionId": "1",
+        "correctOption": "UnV0aCBlIFJhcXVlbA==",
+        "options": [
+            {
+                "id": "UnV0aCBlIFJhcXVlbA==",
+                "optionText": "Ruth e Raquel"
+            },
+            {
+                "id": "UGFvbGEgZSBQYW9saW5h",
+                "optionText": "Paola e Paolina"
+            },
+            {
+                "id": "U2ltb25lIGUgU2ltYXJpYQ==",
+                "optionText": "Simone e Simaria"
+            },
+            {
+                "id": "R2lzZWxlIELDvG5kY2hlbiBlIFBhdHLDrWNpYSBCdW5kY2hlbg==",
+                "optionText": "Gisele Bündchen e Patrícia Bundchen"
+            }
+        ]
+    },
+    {
+        "title": "Antes de chamar Gesonel, qual era seu nome?",
+        "correctOption": "SmFtZXM=",
+        "questionId": "2",
+        "options": [
+            {
+                "id": "SmFtZXM=",
+                "optionText": "James"
+            },
+            {
+                "id": "Sm9yZWw=",
+                "optionText": "Jorel"
+            },
+            {
+                "id": "UmljYXJkbw==",
+                "optionText": "Ricardo"
+            },
+            {
+                "id": "QXplaXRvbmE=",
+                "optionText": "Azeitona"
+            }
+        ]
+    },
+    {
+        "title": "Qual o curso que o Mateus formou na faculdade?",
+        "correctOption": "U2lzdGVtYXMgZGUgSW5mb3JtYcOnw6Nv",
+        "questionId": "3",
+        "options": [
+            {
+                "id": "Q2nDqm5jaWEgZGEgQ29tcHV0YcOnw6Nv",
+                "optionText": "Ciência da Computação"
+            },
+            {
+                "id": "QW7DoWxpc2UgZSBEZXNlbnZvbHZpbWVudG8gZGUgU2lzdGVtYXM=",
+                "optionText": "Análise e Desenvolvimento de Sistemas"
+            },
+            {
+                "id": "U2lzdGVtYXMgZGUgSW5mb3JtYcOnw6Nv",
+                "optionText": "Sistemas de Informação"
+            },
+            {
+                "id": "RW5mZXJtYWdlbQ==",
+                "optionText": "Enfermagem"
+            }
+        ]
+    },
+    {
+        "title": "Titanic voltou aos cinemas em 2023 em comemoração a qual data?",
+        "correctOption": "MjUgYW5vcyBkbyBmaWxtZQ==",
+        "questionId": "3",
+        "options": [
+            {
+                "id": "MjUgYW5vcyBkbyBmaWxtZQ==",
+                "optionText": "25 anos do filme"
+            },
+            {
+                "id": "MTUgYW5vcyBkbyBmaWxtZQ==",
+                "optionText": "15 anos do filme"
+            },
+            {
+                "id": "MTAwIGFub3MgZG8gbmF1ZnLDoWdpbyBkbyBuYXZpbw==",
+                "optionText": "100 anos do naufrágio do navio"
+            },
+            {
+                "id": "SsOhIGZhemVtIDg0IGFub3MuLi4=",
+                "optionText": "Já fazem 84 anos..."
+            }
+        ]
+    },
+    {
+        "title": "Qual frase de Friends a Jaqueline mais odeia?",
+        "correctOption": "V2Ugd2VyZSBvbiBhIGJyZWFrIQ==",
+        "questionId": "5",
+        "options": [
+            {
+                "id": "V2Ugd2VyZSBvbiBhIGJyZWFrIQ==",
+                "optionText": "\"We were on a break!\""
+            },
+            {
+                "id": "U2hlJ3MgeW91ciBsb2JzdGVyIQ==",
+                "optionText": "\"She's your lobster!\""
+            },
+            {
+                "id": "VW5hZ2kh",
+                "optionText": "\"Unagi!\""
+            },
+            {
+                "id": "T2ghIE15ISBHb2Qh",
+                "optionText": "\"Oh! My! God!\""
+            }
+        ]
+    },
+    {
+        "title": "Qual o menor e o maior país do mundo, respectivamente?",
+        "correctOption": "VmF0aWNhbm8gZSBSw7pzc2lh",
+        "questionId": "6",
+        "options": [
+            {
+                "id": "VmF0aWNhbm8gZSBSw7pzc2lh",
+                "optionText": "Vaticano e Rússia"
+            },
+            {
+                "id": "U8OjbyBNYXJpbm8gZSBDaGluYQ==",
+                "optionText": "São Marino e China"
+            },
+            {
+                "id": "TcO0bmFjbyBlIENhbmFkw6E=",
+                "optionText": "Mônaco e Canadá"
+            },
+            {
+                "id": "TWFsdGEgZSBFc3RhZG9zIFVuaWRvcw==",
+                "optionText": "Malta e Estados Unidos"
+            }
+        ]
+    },
+    {
+        "title": "Qual a tradução da frase “Fabiano cogió su saco antes de salir”?",
+        "correctOption": "RmFiaWFubyBwZWdvdSBzZXUgcGFsZXTDsyBhbnRlcyBkZSBzYWly",
+        "questionId": "7",
+        "options": [
+            {
+                "id": "RmFiaWFubyBwZWdvdSBzZXUgcGFsZXTDsyBhbnRlcyBkZSBzYWly",
+                "optionText": "Fabiano pegou seu paletó antes de sair"
+            },
+            {
+                "id": "RmFiaWFubyBmZWNob3UgbyBzYWNvIGFudGVzIGRlIHNhaXI=",
+                "optionText": "Fabiano fechou o saco antes de sair"
+            },
+            {
+                "id": "RmFiaWFubyByYXNnb3Ugc2V1IHBhbGV0w7MgYW50ZXMgZGUgY2Fpcg==",
+                "optionText": "Fabiano rasgou seu paletó antes de cair"
+            },
+            {
+                "id": "RmFiaWFubyBmZWNob3UgbyBzYWNvIGFudGVzIGRlIHNhaXI=",
+                "optionText": "Fabiano fechou o saco antes de sair"
+            }
+        ]
+    },
+    {
+        "title": "Qual o resultado da expressão 60/2(7+3)?",
+        "correctOption": "MzAw",
+        "questionId": "8",
+        "options": [
+            {
+                "id": "MzAw",
+                "optionText": "300"
+            },
+            {
+                "id": "Mw==",
+                "optionText": "3"
+            },
+            {
+                "id": "LTQ4Ng==",
+                "optionText": "-486"
+            },
+            {
+                "id": "MTA=",
+                "optionText": "10"
+            }
+        ]
+    },
+    {
+        "title": "Quem era o dono do SBT?",
+        "correctOption": "RmFiaWFubyBwZWdvdSBzZXUgcGFsZXTDsyBhbnRlcyBkZSBzYWly",
+        "questionId": "9",
+        "options": [
+            {
+                "id": "UGF0csOtY2lhIEFicmF2YW5lbA==",
+                "optionText": "Patrícia Abravanel"
+            },
+            {
+                "id": "Qm9uaW5obw==",
+                "optionText": "Boninho"
+            },
+            {
+                "id": "Um9iZXJ0byBNYXJpbmhv",
+                "optionText": "Roberto Marinho"
+            },
+            {
+                "id": "U8OtbHZpbyBTYW50b3M=",
+                "optionText": "Sílvio Santos"
+            }
+        ]
+    },
+    {
+        "title": "Qual o prato favorito da Jaqueline feito pela Vovó Darci?",
+        "correctOption": "U2FscGljw6Nv",
+        "questionId": "10",
+        "options": [
+            {
+                "id": "U2FscGljw6Nv",
+                "optionText": "Salpicão"
+            },
+            {
+                "id": "RG9icmFkaW5oYQ==",
+                "optionText": "Dobradinha"
+            },
+            {
+                "id": "U3Ryb2dvbm9mZg==",
+                "optionText": "Strogonoff"
+            },
+            {
+                "id": "RnJhbmdvIGNvbSBxdWlhYm8=",
+                "optionText": "Frango com quiabo"
+            }
+        ]
+    },
+    {
+        "title": "Qual o ano do lançamento da música Onda Onda, do Tchakabum?",
+        "correctOption": "MjAwMQ==",
+        "questionId": "11",
+        "options": [
+            {
+                "id": "MjAwMA==",
+                "optionText": "2000"
+            },
+            {
+                "id": "MjAwMQ==",
+                "optionText": "2001"
+            },
+            {
+                "id": "MTk5OQ==",
+                "optionText": "1999"
+            },
+            {
+                "id": "MjAwNA==",
+                "optionText": "2004"
+            }
+        ]
+    },
+    {
+        "title": "Quem foi o primeiro apresentador do Big Brother Brasil?",
+        "correctOption": "UGVkcm8gQmlhbA==",
+        "questionId": "12",
+        "options": [
+            {
+                "id": "UGVkcm8gQmlhbA==",
+                "optionText": "Pedro Bial"
+            },
+            {
+                "id": "QW5kcsOpIE1hcnF1ZXM=",
+                "optionText": "André Marques"
+            },
+            {
+                "id": "TWFyaXNhIE9ydGg=",
+                "optionText": "Marisa Orth"
+            },
+            {
+                "id": "WmVjYSBDYW1hcmdv",
+                "optionText": "Zeca Camargo"
+            }
+        ]
+    },
+    {
+        "title": "Quem assumiu o Domingo Legal depois do Gugu?",
+        "correctOption": "Q2Vsc28gUG9ydGlvbGk=",
+        "questionId": "13",
+        "options": [
+            {
+                "id": "RWxpYW5h",
+                "optionText": "Eliana"
+            },
+            {
+                "id": "UGF0csOtY2lhIEFicmF2YW5lbA==",
+                "optionText": "Patrícia Abravanel"
+            },
+            {
+                "id": "Q2Vsc28gUG9ydGlvbGk=",
+                "optionText": "Celso Portioli"
+            },
+            {
+                "id": "U2lsdmlhIEFicmF2YW5lbA==",
+                "optionText": "Silvia Abravanel"
+            }
+        ]
+    },
+    {
+        "title": "Jaqueline já teve uma cachorra chamada Lua. Quantos dedos ela tinha em uma das patas?",
+        "correctOption": "Ng==",
+        "questionId": "14",
+        "options": [
+            {
+                "id": "NQ==",
+                "optionText": "5"
+            },
+            {
+                "id": "Mw==",
+                "optionText": "3"
+            },
+            {
+                "id": "Ng==",
+                "optionText": "6"
+            },
+            {
+                "id": "NA==",
+                "optionText": "4"
+            }
+        ]
+    },
+    {
+        "title": "Em quantos shows do Metallica o Mateus já foi?",
+        "correctOption": "Ng==",
+        "questionId": "15",
+        "options": [
+            {
+                "id": "Mg==",
+                "optionText": "2"
+            },
+            {
+                "id": "Mw==",
+                "optionText": "3"
+            },
+            {
+                "id": "NA==",
+                "optionText": "4"
+            },
+            {
+                "id": "NQ==",
+                "optionText": "5"
+            }
+        ]
+    },
+    {
+        "title": "Qual desses artistas internacionais já quis gravar com Márcio Victor, percussionista do Psirico?",
+        "correctOption": "S2FueWUgV2VzdA==",
+        "questionId": "16",
+        "options": [
+            {
+                "id": "QmV5b25jw6k=",
+                "optionText": "Beyoncé"
+            },
+            {
+                "id": "S2FueWUgV2VzdA==",
+                "optionText": "Kanye West"
+            },
+            {
+                "id": "RHVhIExpcGE=",
+                "optionText": "Dua Lipa"
+            },
+            {
+                "id": "V2lsbCBTbWl0aA==",
+                "optionText": "Will Smith"
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+/* QuizQuestions.css */
+
+.quiz-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.quiz-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.quiz-options-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.quiz-option-button {
+    width: 300px;
+    padding: 15px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #f0f0f0;
+}
+
+.quiz-option-button.selected {
+    background-color: #add8e6;
+}
+
+.quiz-confirm-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.quiz-confirm-button.active {
+    background-color: #4CAF50;
+    cursor: pointer;
+}
+
+.quiz-confirm-button.disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
